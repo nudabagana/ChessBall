@@ -3,7 +3,7 @@ let gui;
 window.onload =  () =>
 {
     let sphereR = 10;
-    let pointsCount = 1000;
+    let pointsCount = 10000;
     // GUI
     var robotControllVars = function() {
         // this.yellowX = 0;
